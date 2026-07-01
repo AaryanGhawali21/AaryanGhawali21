@@ -1,7 +1,7 @@
-# 💫 Hi 👋, I'm  Aaryan Ghawali
+# Hello, I'm  Aaryan Ghawali
 **A passionate Data Analyst | Information Technology Graduate | SQL | Python | Power BI | Tableau | DAX | Excel | Data Visualization | Open to Data Analytics & Data Science Opportunities**
 
-Email Me 👉 ✉️ **aaryanghawali089@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me : **aaryanghawali089@gmail.com** For Collaboration/Project or Anything Else. 
 
 - 🔭 **I’m currently working on:** Power BI Projects
 - 🌱 **I’m currently learning:** Data Science and Analytics
