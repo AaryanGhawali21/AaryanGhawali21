@@ -1,3 +1,16 @@
+# 💫 Hi 👋, I'm  Aaryan Ghawali
+**A passionate Data Analyst | Information Technology Graduate | SQL | Python | Power BI | Tableau | DAX | Excel | Data Visualization | Open to Data Analytics & Data Science Opportunities**
+
+Email Me 👉 ✉️ **aaryanghawali089@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** Enter your project info here
+- 🌱 **I’m currently learning:** Enter your tech here
+- 👯 **I’m looking to collaborate on:** Enter your project name and info
+- 🤔 **I’m looking for help with:** Your project here
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** Enter your email here
+- 😄 **Pronouns:** Imran Sir
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 ## 🌐 Socials:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/ Big_Warning9416) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aaryanghawali089@gmail.com) 
