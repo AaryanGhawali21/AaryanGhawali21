@@ -5,8 +5,8 @@ Email Me : **aaryanghawali089@gmail.com** For Collaboration/Project or Anything 
 
 - 🔭 **I’m currently working on:** Power BI Projects
 - 🌱 **I’m currently learning:** Data Science and Analytics
-- 👯 **I’m looking to collaborate on:** 
-- 🤔 **I’m looking for help with:** 
+- 👯 **I’m looking to collaborate on:** Data Analytics, Business Intelligence, and Open-Source Data Science projects.
+- 🤔 **I’m looking for help with:** Machine Learning, Data Engineering, and building production-ready data solutions.
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** aaryanghawali089@gmail.com
 - 😄 **Pronouns:** Aaryan Ghawali
